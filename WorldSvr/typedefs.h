@@ -1,7 +1,7 @@
 #pragma once
 using UINT_PTR = unsigned long;
 using INT_PTR = unsigned int;
-using UINT64 = unsigned long long;
+using UINT64 = unsigned long;
 using UINT32 = unsigned int;
 using UINT16 = unsigned short;
 using UINT8 = unsigned char;
